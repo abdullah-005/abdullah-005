@@ -28,29 +28,7 @@
 - 📫 Reach Me At:  
   ✉️ abdullahalmahmud005@gmail.com
 
-<h3>🌐 Connect With Me</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/abdullah-al-mahmud-8b3b792a8">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-</a>
-
-<a href="https://codeforces.com/profile/abdullah_05">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="30"/>
-</a>
-
-<a href="https://facebook.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=facebook" height="30"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
-</a>
-
-<a href="mailto:abdullahalmahmud005@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-</a>
-</p>
-</br>
+</br><br>
 
 ---
 
@@ -62,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=python" height="55"/>
   <img src="https://skillicons.dev/icons?i=java" height="55"/>
 </p>
-
 
 
 ## 🌐 Frontend Technologies
@@ -85,14 +62,14 @@
 </p>
 <br>
 
-
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=abdullah-005&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=abdullah-005&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="100em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-005&theme=tokyonight&hide_border=true"/>
+  <img height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-005&theme=tokyonight&hide_border=true"/>
 </p>
 
 
@@ -102,10 +79,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdullah-005&theme=algolia&no-frame=true&margin-w=10"/>
 </p>
-<br><br>
+<br>
 
 ---
 
+<br>
 <h1 align="center">
 🚀 Featured Project
 </h1>
@@ -123,7 +101,31 @@ A modern university management system built using Django with powerful managemen
 <br>
 
 ---
-
 <h3 align="center">
 ⭐ Thanks For Visiting My Profile ⭐
 </h3>
+
+<br>
+<p align="center">
+<a href="https://www.linkedin.com/in/abdullah-al-mahmud-8b3b792a8">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
+</a>
+
+<a href="https://codeforces.com/profile/abdullah_05">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="30"/>
+</a>
+
+<a href="https://facebook.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=facebook" height="30"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://skillicons.dev/icons?i=instagram" height="30"/>
+</a>
+
+<a href="mailto:abdullahalmahmud005@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
+</a>
+</p>
+
+
